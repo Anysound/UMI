@@ -15,12 +15,6 @@ header .header_top_nav > .container > .row {
 }
 }
 
-@media (min-width: 992px){
-.col-md-offset-1 {
-
-    margin-left: 0!important;
-}
-}
 body > header > div.header_top_nav.background_light_gray{
     display: flex;
     flex-direction: row;
